@@ -17,7 +17,7 @@ You can also join our support group [here!](https://t.me/tg_groupmanagerbot)
 [Join Discuss Group](https://t.me/giveaways_24hrs)
 
 # Report error
-Report your problem along with your name to [this person](https://t.me/xditya)
+Report your problem along with your name to [this person](https://t.me/ramu_of_telegram)
 
 # Credits
 This repo is just a custom fork of [HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya)
